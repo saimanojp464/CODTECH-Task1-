@@ -6,7 +6,6 @@ Domain:Java Programming
 
 Duration:November to December 2024
 
-Mentor:Anshu
 
 Overview of the Project
 
