@@ -7,6 +7,7 @@ Domain:Java Programming
 Duration:November to December 2024
 
 Overview of the Project
+![Uploading Screenshot (1).png…]()
 
 
 Writing an overview of a Java project involves summarizing the key aspects of the project concisely. Here's a step-by-step guide to crafting an effective overview:
