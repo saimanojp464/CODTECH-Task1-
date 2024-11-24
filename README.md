@@ -6,7 +6,27 @@ Domain:Java Programming
 
 Duration:November to December 2024
 
-Overview of the Project
+### Overview of the Project
+
+Output
+
+Microsoft Windows [Version 10.0.19045.4239]
+
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Chandu\Desktop\Java>javac Test.java
+
+C:\Users\Chandu\Desktop\Java>java Test
+
+a+b=30
+
+a-b=-10
+
+a*b=200
+
+a%b=10
+
+a/b=0
 
 Writing an overview of a Java project involves summarizing the key aspects of the project concisely. Here's a step-by-step guide to crafting an effective overview:
 
