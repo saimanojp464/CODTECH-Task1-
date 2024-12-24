@@ -8,8 +8,6 @@ Domain:Java Programming
 
 Duration:November to December 2024
 
-Domain:SRAVANI GOUNI
-
 ### Overview of the Project
 
 Output
